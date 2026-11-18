@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "小暖岛 · 日常与服药记录",
+  "short_name": "小暖岛",
+  "description": "本机保存的日常关照、用药打卡与日历提醒。网页不具备系统闹钟权限。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf6ef",
+  "theme_color": "#fbf6ef",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
